@@ -10,10 +10,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I’m Mukesh Chaudhary, an engineering graduate with 9+ years of IT experience, specializing in DevOps and cloud‑native infrastructure. I have strong expertise in Kubernetes (EKS, AKS, ECS, OpenShift), AWS & Azure cloud platforms, CI/CD automation (Jenkins, Bitbucket, GitHub Actions, ArgoCD), Infrastructure as Code (Terraform, Ansible), and Linux administration.
-- I’m passionate about building secure, scalable, and reliable infrastructure across hybrid environments, with proven ability in troubleshooting and automation to drive efficiency and resilience.
+I’m Mukesh Chaudhary, an engineering graduate with 9+ years of IT experience, specializing in DevOps and cloud‑native infrastructure. I have strong expertise in Kubernetes (EKS, AKS, ECS, OpenShift), AWS & Azure cloud platforms, CI/CD automation (Jenkins, Bitbucket, GitHub Actions, ArgoCD), Infrastructure as Code (Terraform, Ansible), and Linux administration.
+I’m passionate about building secure, scalable, and reliable infrastructure across hybrid environments, with proven ability in troubleshooting and automation to drive efficiency and resilience.
   
 **- 🛠️ Skills Snapshot**
+
 **- 🔒 Security:** RBAC, IAM, certificate lifecycle, Wiz integration, vulnerability remediation, cyber-ark, Sonarqube
 
 **- ☸️ Kubernetes & Containers:** EKS, AKS, ECS, OpenShift, Nirmata, migration & upgrades
@@ -21,9 +22,13 @@
 **- ☁️ Cloud Platforms:** AWS , Azure
 
 **- ⚡ CI/CD & Automation:** Jenkins, GitHub Actions, Bitbucket, ArgoCD, Docker, Nexus, SonarQube
+
 **- 🛠️ Infrastructure as Code (IaC):** Terraform, Ansible (playbooks, templates)
+
 **- 📊 Monitoring & Backup:** Prometheus, Grafana, Splunk, Nagios, Commvault
+
 **- 🐧 Linux & Scripting:** RHEL L2/L3, Shell scripting
+
 **- 🗄️ Databases & Networking:** Amazon RDS, MySQL, Kong, HAProxy, Nginx
 
 ## 📊 GitHub Stats & Trophies
